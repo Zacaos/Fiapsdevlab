@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-4-404421",
+  "private_key_id": "4d4e8b173f0fce6bfde5fcaca9e88c9f03057e39",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2dLocTGLxmpzt\nbT3K1H7cJhJNyOZd9p39Ucpijpnh0fPekloqccZsTYuw6bI5toNqQvs+gUx5BTve\nRKpyHzVQHE9R5FZ/tZhyL+Lf/REux5Bi0wA+gm94PTAbGin3yFXrlKSswa/IIQxF\nsKcl7o30fa14MN1mos/Ksc62aJNSoVdr9Req3Og8sO6U7ATlfeUL4QZnWAsx/ugm\nwWLd0CweWTU+LsqucEpsxCqFTIvk9HIq/p7MfEgB6/u1xTNLiRWzZlEupoN5vFkU\n14J6PUjY7ePmr3QmsORf5oC1DFyFRLcarjbK34roxNg/M4RwFjH7VtB6z4mFEoQ8\npE0eKq2zAgMBAAECggEAQBKcusxOYMbpfe1DamOWCyxpeBxpXaz5zVg4KMUoH+ex\nasNdW5Np2WWf/SgMOP0xiBLulQQl/UfLvuHBM2NnPvM6HamAgMeeOdc8JmmB67oU\nJ8guSUVX7NMb/iCBhWy6U4j3DV3VI4QLgbun7wennSi3TsJmNaFONEGdtGvj9Htv\nfcmNDpB0/LrAACnLV5NiYUKLECUxep8HKWnOlWljbdxyyHAjuYVCf9PgAXqJ3ToJ\n2wEFYc5h+SNAUqne1bukmoaQgoGUFSrxCc8quHrLw8OFJ0uhSM3hnEjbExesuYZZ\nWvzFyWGWH5qpzY2SCseuJRvly6NMdfKVkixDePBlbQKBgQD9GNoPbjnuMhzqcSpn\nRQEFdmpAMoPvJtaTWLrpG1brVLB2e093NsgTmNHPcpjkYhclv4K5HafqpYcYV89W\nGyZRHVXR/ov+NjulzzRx900EHSmpmkBiQig+rXbDqQiBddX+QmQcfZJFccqPp7D7\nPk+QedYM+sO1MhPH/89lqvW1RwKBgQC4jHUd7/fhmHRtvDufeCKS7NhIvNTv1epK\n9KVrEZm1GkLGcAl/qh/NRtvOC98aq0V37E+u0CFQPCwv27KKHj5m1gtkClgaufNC\nE8j6dSl5OWcDrdapU+TiNOMEgoshMmGorzK33+jy+4KTBwHGkzyicU0eYjqUfV0Z\nxBxqOz2qNQKBgFCq0xWH9D7PChhO6Uzw2Vp8W3EKqLJYlptv9GLHq/RlkbixpKpC\nc5KLapPL2p8wBGCroWaO5S4Mg/pmQlcXYCcKSogbsVLcxjYazIRmZc2h3d2IpGys\n2VbgwrGp9mQMwp+/WVkbTLuFgSI4OFhbi9BohKiuZCIkS9m61sd4rceRAoGAU6uS\nucT/fK+TMeFiotVjz3tEQA4k+KvisqMikF2Fc795QOCw3cmy623R4CQvvbajI1Dn\ne5lvUSJG4lfYJZi6sAMhXPT3pv5hlLbFqxANgqGM2/Un2tNndUuHFZdeHunprwHn\nm8gPpIJ1W9WUb4R3vCpkTX85kfMYj8MDIwLC3XUCgYEA8B9oT0iIT7JHJ+/SdJ+o\nmZmLJbjE+PbBmVOaF4jQ83DyFlEkCiaR+YFFz8pOXFZ6PCW2yXEL7tL3M9yAHyGN\n3G03XPl4Ji3GYJ6T/jvuJEMeKUCLWG1IBLNo4QJTSPgcagwznKRMoPAR+CBfGiBw\nZTURQz5VhCBA2jHvp1xjzLo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spot-music@projeto-4-404421.iam.gserviceaccount.com",
+  "client_id": "113718741137925241251",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spot-music%40projeto-4-404421.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
